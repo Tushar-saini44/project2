@@ -1,3 +1,3 @@
 # Project 
 
-This is a project frome local Repo
+This is a project frome local Repo.
